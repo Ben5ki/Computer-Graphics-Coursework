@@ -1,0 +1,10 @@
+^C:\USERS\BENAO\DESKTOP\CODE\COMPUTER-GRAPHICS-COURSEWORK\EXTERNAL\GLFW-3.1.2\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/benao/Desktop/Code/Computer-Graphics-Coursework -BC:/Users/benao/Desktop/Code/Computer-Graphics-Coursework/build --check-stamp-file C:/Users/benao/Desktop/Code/Computer-Graphics-Coursework/build/external/glfw-3.1.2/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

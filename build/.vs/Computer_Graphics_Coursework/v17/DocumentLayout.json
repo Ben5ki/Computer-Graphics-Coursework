@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benao\\Desktop\\Code\\Computer-Graphics-Coursework\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{404E6241-8E46-3703-8663-23C7E46B0B22}|Computer_Graphics_Coursework.vcxproj|C:\\Users\\benao\\Desktop\\Code\\Computer-Graphics-Coursework\\common\\texture.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404E6241-8E46-3703-8663-23C7E46B0B22}|Computer_Graphics_Coursework.vcxproj|C:\\Users\\benao\\Desktop\\Code\\Computer-Graphics-Coursework\\common\\camera.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "texture.hpp",
+              "DocumentMoniker": "C:\\Users\\benao\\Desktop\\Code\\Computer-Graphics-Coursework\\common\\texture.hpp",
+              "RelativeDocumentMoniker": "..\\common\\texture.hpp",
+              "ToolTip": "C:\\Users\\benao\\Desktop\\Code\\Computer-Graphics-Coursework\\common\\texture.hpp",
+              "RelativeToolTip": "..\\common\\texture.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-29T13:49:21.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "camera.hpp",
+              "DocumentMoniker": "C:\\Users\\benao\\Desktop\\Code\\Computer-Graphics-Coursework\\common\\camera.hpp",
+              "RelativeDocumentMoniker": "..\\common\\camera.hpp",
+              "ToolTip": "C:\\Users\\benao\\Desktop\\Code\\Computer-Graphics-Coursework\\common\\camera.hpp",
+              "RelativeToolTip": "..\\common\\camera.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-29T13:49:18.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

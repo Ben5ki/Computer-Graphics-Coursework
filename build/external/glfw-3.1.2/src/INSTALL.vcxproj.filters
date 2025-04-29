@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\benao\Desktop\Code\Computer-Graphics-Coursework\build\CMakeFiles\c70754c31063df4d9ed33dbaad1f6ec1\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E90B9339-DFF1-3F1D-9249-22379F3D5423}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

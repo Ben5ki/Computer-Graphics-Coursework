@@ -1,0 +1,10 @@
+^C:\USERS\BENAO\DESKTOP\CODE\COMPUTER-GRAPHICS-COURSEWORK\BUILD\CMAKEFILES\9E96CF2730FD101FEB5F2EFD68AE2ABD\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/benao/Desktop/Code/Computer-Graphics-Coursework -BC:/Users/benao/Desktop/Code/Computer-Graphics-Coursework/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/benao/Desktop/Code/Computer-Graphics-Coursework/build/Computer_Graphics_Coursework.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
